@@ -1,1 +1,1 @@
-﻿# NETFLIX Lite with next.js
+NETFLIX Lite with next.js
